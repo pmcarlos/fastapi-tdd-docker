@@ -10,7 +10,7 @@ black = "*"
 [packages]
 fastapi = "*"
 uvicorn = "*"
-asyncpg = "==0.20.1"
+asyncpg = "==0.21.0"
 tortoise-orm = "==0.16.12"
 pytest = "==5.4.2"
 requests = "==2.23.0"
